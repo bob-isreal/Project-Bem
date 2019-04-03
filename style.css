@@ -1,7 +1,12 @@
-.bg-grey {
+.bg-colour {
     background-color:rgb(80, 16, 230);
 }
 
 .individual {
 margin-top: 5%
+}
+
+#marypics {
+    border-radius: 25%;
+    width: 200px;
 }
