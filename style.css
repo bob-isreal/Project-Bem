@@ -1,4 +1,4 @@
-.bg-grey {
+.bg-colour {
     background-color:rgb(80, 16, 230);
 }
 .bg-lavender {
@@ -9,4 +9,9 @@ margin-top: 5%
 }
 .white{
     color:white!important;
+}
+
+#marypics {
+    border-radius: 25%;
+    width: 200px;
 }
