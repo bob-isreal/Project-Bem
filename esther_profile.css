@@ -1,23 +1,16 @@
-html, body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-  }
+
   
   .wrapper {
     background-color: rgb(5, 4, 5);
     
-    max-width: 50%;
+    max-width: 100%;
     display: flex;
     flex-direction: row;
     height: 80%;
   }
   
   .left, .right {
-    background-color: rgb(200, 186, 226);
+    background-color: rgb(138, 135, 143);
     
     margin: 5px;
     max-width: 50%;
