@@ -5,8 +5,14 @@
     background-color:lavender;
 }
 .individual {
-margin-top: 5%
+margin-top: 5%;
 }
+.blog {
+    border: 2px solid rgb(80, 16, 230);
+    padding: 5%;
+    margin-top: 5%;
+}
+
 .white{
     color:white!important;
 }
