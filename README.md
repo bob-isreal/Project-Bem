@@ -1,5 +1,5 @@
 # Project-Bem
-Project-Bem is a port-folio site about the three soon to be really cool start-up co-founders.
+Project-Bem is a portfolio site about the three soon to be really cool start-up co-founders.
 
 ## Usage
 
